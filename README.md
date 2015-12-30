@@ -1,5 +1,5 @@
 # 3D-Clock
-Modelling of 3D clock using CSS, HTML and JavaScript
+The aim of the project was to model a 3D clock using CSS, HTML and JavaScript.
 
 If all files have been downloaded correctly and the html file is executed, the 3D clock should look as follows:-
 https://jsfiddle.net/AmritRaj/kvrk25ou/
